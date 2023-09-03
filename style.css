@@ -1,0 +1,10 @@
+body {
+  margin: 10px;
+  background: #eee;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  background-color: rgb(155, 152, 174);
+}
+
+.header {
+  margin-left: 20px;
+}
